@@ -88,6 +88,7 @@ cout << " " << months[month - 1] << " " << year << "\n\n";
     // Display the acceptance letter
     cout << "\n\n";
 
+
     cout << "To: " << firstName << " " << lastName << ",\n\n";
 
     cout << "Dear " << firstName << ",\n\n";
